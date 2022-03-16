@@ -12,7 +12,7 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmong0516)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmong0516&layout=compact&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmong0516&theme=gruvbox&show_icons=true)
+
 
  <br>
  <br>  
