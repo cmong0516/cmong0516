@@ -5,10 +5,10 @@
    
    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cmong0516)](https://velog.io/@cmong0516)
    
-    <h1>### Hi there 👋 ###</h1>
-    <p>I am studying dreaming of becoming a backend developer. <br>
+### Hi there 👋 ###
+I am studying dreaming of becoming a backend developer. <br>
         As I was interested in electronic devices, <br>
-        I dreamed of becoming a developer, and I hope there will be a day when something I have created will be useful to people.</p> 
+        I dreamed of becoming a developer, and I hope there will be a day when something I have created will be useful to people.
   
  <br>
  <br>
