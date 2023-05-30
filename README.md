@@ -4,14 +4,6 @@
 
    
    [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=cmong0516)](https://velog.io/@cmong0516)
-   
-### Hi there 👋 ###
-I am studying dreaming of becoming a backend developer. <br>
-        As I was interested in electronic devices, <br>
-        I dreamed of becoming a developer, and I hope there will be a day when something I have created will be useful to people.
-  
- <br>
- <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmong0516&layout=compact&theme=tokyonight)
    
@@ -19,10 +11,8 @@ I am studying dreaming of becoming a backend developer. <br>
 
  <br>
  <br>  
-  
- 
 
 
-
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=cmong0516)](https://velog.io/@cmong0516) 
 </div>
 
