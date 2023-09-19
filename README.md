@@ -1,6 +1,6 @@
    <div align="center">
    
-   ####  :wave: Welcome my github profile !
+   ##  :wave: 매일매일 하나씩 더나은 내일을 위해 !
   
    #### :pencil2: Skills
    
