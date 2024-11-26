@@ -26,7 +26,8 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmong0516&exclude_repo=cmong0516.github.io&layout=compact&theme=tokyonight" />
 </a>
-   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cmong0516&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cmong0516&theme=tokyonight)](https://git.io/streak-stats)
 
 
 
