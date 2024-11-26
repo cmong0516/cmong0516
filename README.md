@@ -26,10 +26,6 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmong0516&exclude_repo=cmong0516.github.io&layout=compact&theme=tokyonight" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=cmong0516&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cmong0516&theme=tokyonight)](https://git.io/streak-stats)
 
 
